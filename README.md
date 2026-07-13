@@ -1,24 +1,430 @@
-# 💫 About Me:
-Hi, I'm Lemuel 👋<br><br>I'm a student and aspiring developer from India, currently exploring web development, cybersecurity, aviation tech, and creative digital projects.<br><br>I enjoy building modern, useful, and visually clean projects — from airline-style web apps to Discord bots, UI designs, and experimental tools. I’m still learning, but I like working on real projects that push me to improve my coding, design, and problem-solving skills.<br><br> What I'm interested in<br>- Web Development<br>- Cybersecurity<br>- UI/UX Design<br>- Aviation Technology<br>- Discord Bots<br>- Creative Digital Projects<br><br> Tech I'm learning<br>- HTML, CSS, JavaScript<br>- React / Next.js<br>- Tailwind CSS<br>- Supabase<br>- Node.js<br>- Git & GitHub<br><br> Current Goal<br>To keep improving my skills by building real-world projects, learning consistently, and creating work that looks professional and feels useful.<br><br>Connect with me<br>Feel free to check out my projects and follow my journey.
+<!--
+────────────────────────────────────────────────────────────
+ETHICALLEMON // PROFILE FLIGHT SYSTEM
+Designed for: github.com/EthicalLemon
+────────────────────────────────────────────────────────────
+-->
 
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:020617,35:061b2c,70:003b52,100:00e5ff&text=ETHICALLEMON&fontColor=eaffff&fontSize=64&fontAlignY=39&desc=FULL-STACK%20SYSTEMS%20%7C%20AVIATION%20TECH%20%7C%20SECURITY%20EXPERIMENTS&descAlignY=61&descSize=16&animation=twinkling"
+/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlylemn) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Lemuel) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=EthicalLemon&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=EthicalLemon&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=EthicalLemon&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&repeat=true&width=950&height=70&lines=%5B+INITIALIZING+ETHICALLEMON+FLIGHT+SYSTEM+%5D;%5B+CONNECTING+DEVELOPMENT+MODULES+%5D;%5B+ROUTING+IDEAS+INTO+PRODUCTION+%5D;%5B+ALL+SYSTEMS+OPERATIONAL+%5D"
+/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=EthicalLemon&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[ SYSTEM IDENTITY ](#system-identity)    //   
+[ PROJECT ROUTES ](#project-routes)    //   
+[ TECHNOLOGY BAY ](#technology-bay)    //   
+[ FLIGHT RECORDER ](#flight-recorder)    //   
+[ CONTACT CHANNEL ](#contact-channel)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=EthicalLemon&label=SYSTEM+VISITORS&color=00b8d4&style=flat-square" alt="System visitors">
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=EthicalLemon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a id="system-identity"></a>
+
+## SYSTEM IDENTITY
+
+```text
+┌──────────────────────────────────────────────────────────────────┐
+│                    ETHICALLEMON CONTROL                           │
+├──────────────────────┬───────────────────────────────────────────┤
+│ OPERATOR             │ Lemuel                                    │
+│ CALLSIGN             │ EthicalLemon                              │
+│ BASE                 │ India                                     │
+│ PRIMARY DOMAIN       │ Full-Stack Web Development                │
+│ SECONDARY DOMAINS    │ Aviation Technology / Security / Design   │
+│ CURRENT DIRECTIVE    │ Build real systems. Learn through launch. │
+│ OPERATING STATUS     │ ONLINE                                    │
+└──────────────────────┴───────────────────────────────────────────┘
+```
+
+I am a student developer building systems that combine software engineering, visual design, aviation operations and automation.
+
+My work is centred around functional projects rather than isolated demonstrations: airline booking platforms, staff dashboards, Discord integrations, authentication systems, operational tools and experimental interfaces.
+
+```text
+INPUT       Ideas with real-world purpose
+PROCESS     Research -> Prototype -> Build -> Test -> Refine
+OUTPUT      Software that looks deliberate and works reliably
+```
+
+---
+
+## COMMAND DECK
+
+<details open>
+<summary><b>RUN COMMAND: whoami --extended</b></summary>
+
+<br>
+
+```yaml
+name: Lemuel
+username: EthicalLemon
+role: Student Developer
+location: India
+
+focus:
+  - Full-Stack Development
+  - Aviation Technology
+  - Secure Authentication
+  - Discord Automation
+  - Interface Design
+
+currently_learning:
+  - React
+  - Next.js
+  - TypeScript
+  - Node.js
+  - Supabase
+  - PostgreSQL
+
+development_philosophy:
+  - Build before overplanning
+  - Improve through real projects
+  - Design every interface intentionally
+  - Treat security as architecture
+  - Convert experiments into systems
+```
+
+</details>
+
+<details>
+<summary><b>RUN COMMAND: cat current-mission.log</b></summary>
+
+<br>
+
+```text
+MISSION DESIGNATION   AIRLINE OPERATIONS PLATFORM
+MISSION TYPE          FULL-STACK WEB APPLICATION
+FRONTEND              NEXT.JS / REACT / TYPESCRIPT
+BACKEND               SUPABASE / POSTGRESQL
+INTEGRATIONS          DISCORD BOT / REAL-TIME DATA
+CORE MODULES          BOOKINGS / FLIGHTS / STAFF / AUTHENTICATION
+MISSION STATE         ACTIVE DEVELOPMENT
+```
+
+</details>
+
+<details>
+<summary><b>RUN COMMAND: inspect operator-principles</b></summary>
+
+<br>
+
+```text
+01. A polished interface cannot compensate for broken functionality.
+02. Functionality without deliberate design feels unfinished.
+03. Security must be designed before deployment, not after failure.
+04. Every project should solve a recognisable problem.
+05. The fastest learning happens when the system is real.
+```
+
+</details>
+
+---
+
+<a id="project-routes"></a>
+
+## PROJECT ROUTES
+
+```text
+DEPARTURE CONTROL
+────────────────────────────────────────────────────────────────────
+
+ROUTE       SYSTEM                         CLASSIFICATION
+EL-101      INDIGO-PTFS                    FULL-STACK OPERATIONS
+EL-204      indigoptfs                     AIRLINE PLATFORM
+EL-303      indigoo                        BOOKING INTERFACE
+EL-404      Lemon                          PERSONAL DIGITAL LAB
+
+────────────────────────────────────────────────────────────────────
+ALL ROUTES ARE OPERATED THROUGH THE ETHICALLEMON DEVELOPMENT NETWORK
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### EL-101 // INDIGO-PTFS
+
+A full-stack virtual airline system with real-time flight administration, passenger booking, staff access control and Discord integration.
+
+```text
+STATUS       ACTIVE
+TYPE         FULL-STACK
+FRONTEND     NEXT.JS
+DATABASE     SUPABASE
+AUTOMATION   DISCORD
+```
+
+[OPEN SYSTEM REPOSITORY](https://github.com/EthicalLemon/INDIGO-PTFS)
+
+</td>
+<td width="50%" valign="top">
+
+### EL-204 // indigoptfs
+
+The primary airline operations codebase containing the web interface, backend schema, public assets and Discord bot architecture.
+
+```text
+STATUS       ACTIVE
+TYPE         PLATFORM
+LANGUAGE     TYPESCRIPT
+COMMITS      CONTINUOUS
+MODULES      WEB / BOT / DATA
+```
+
+[OPEN SYSTEM REPOSITORY](https://github.com/EthicalLemon/indigoptfs)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### EL-303 // indigoo
+
+An airline-facing web experiment containing passenger booking and check-in interfaces with a deployed Vercel build.
+
+```text
+STATUS       DEPLOYED
+TYPE         WEB EXPERIENCE
+CORE         HTML / JAVASCRIPT
+MODULES      BOOKING / CHECK-IN
+HOST         VERCEL
+```
+
+[OPEN REPOSITORY](https://github.com/EthicalLemon/indigoo)
+[OPEN DEPLOYMENT](https://indigova.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### EL-404 // Lemon
+
+A personal development laboratory combining frontend work, design experiments and published digital projects.
+
+```text
+STATUS       EXPERIMENTAL
+TYPE         PERSONAL LAB
+CORE         HTML / CSS / JAVASCRIPT
+PURPOSE      DESIGN / RESEARCH / TESTING
+```
+
+[OPEN SYSTEM REPOSITORY](https://github.com/EthicalLemon/Lemon)
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="technology-bay"></a>
+
+## TECHNOLOGY BAY
+
+<div align="center">
+
+<img
+src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,figma,vercel&perline=7"
+alt="Technology stack"
+/>
+
+</div>
+
+<br>
+
+```text
+┌──────────────────────┬───────────────────────────────────────────┐
+│ INTERFACE SYSTEMS    │ HTML / CSS / JAVASCRIPT / REACT          │
+│ APPLICATION LAYER    │ NEXT.JS / TYPESCRIPT / NODE.JS           │
+│ DATA SYSTEMS         │ SUPABASE / POSTGRESQL                    │
+│ DESIGN SYSTEMS       │ FIGMA / RESPONSIVE UI / MOTION DESIGN    │
+│ DEPLOYMENT SYSTEMS   │ VERCEL / NETLIFY / GITHUB                │
+│ AUTOMATION SYSTEMS   │ DISCORD BOTS / GITHUB ACTIONS            │
+└──────────────────────┴───────────────────────────────────────────┘
+```
+
+---
+
+## SYSTEM ARCHITECTURE
+
+```mermaid
+flowchart LR
+    A["REAL-WORLD IDEA"] --> B["SYSTEM RESEARCH"]
+    B --> C["INTERFACE PROTOTYPE"]
+    C --> D["APPLICATION LOGIC"]
+    D --> E["DATABASE AND AUTH"]
+    E --> F["AUTOMATION LAYER"]
+    F --> G["DEPLOYMENT"]
+    G --> H["USER TELEMETRY"]
+    H --> I["REFINEMENT"]
+    I --> C
+
+    style A fill:#020617,stroke:#00e5ff,color:#ffffff
+    style B fill:#020617,stroke:#00e5ff,color:#ffffff
+    style C fill:#020617,stroke:#00e5ff,color:#ffffff
+    style D fill:#020617,stroke:#00e5ff,color:#ffffff
+    style E fill:#020617,stroke:#00e5ff,color:#ffffff
+    style F fill:#020617,stroke:#00e5ff,color:#ffffff
+    style G fill:#020617,stroke:#00e5ff,color:#ffffff
+    style H fill:#020617,stroke:#00e5ff,color:#ffffff
+    style I fill:#020617,stroke:#00e5ff,color:#ffffff
+```
+
+---
+
+## DEVELOPMENT RADAR
+
+```text
+                        AVIATION SYSTEMS
+                              100
+                               |
+                               |
+              SECURITY  -------+-------  INTERFACE DESIGN
+                               |
+                               |
+                        BACKEND SYSTEMS
+
+ACTIVE SIGNALS
+
+WEB DEVELOPMENT        ████████████████████
+UI ENGINEERING         ██████████████████░░
+AVIATION TECHNOLOGY    ███████████████████░
+BACKEND DEVELOPMENT    ███████████████░░░░░
+CYBERSECURITY          ████████████░░░░░░░░
+AUTOMATION             ████████████████░░░░
+```
+
+---
+
+<a id="flight-recorder"></a>
+
+## FLIGHT RECORDER
+
+<div align="center">
+
+<img
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthicalLemon&theme=github_dark"
+alt="GitHub profile telemetry"
+/>
+
+<br>
+
+<img
+width="52%"
+src="https://streak-stats.demolab.com?user=EthicalLemon&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6FBFF&dates=748291&sideNums=E6FBFF&currStreakNum=FFFFFF&background=00000000"
+alt="GitHub development streak"
+/>
+
+<br>
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=EthicalLemon&bg_color=020617&color=9be7f5&line=00e5ff&point=ffffff&area=true&area_color=003b52&hide_border=true&custom_title=ETHICALLEMON%20FLIGHT%20RECORDER"
+alt="GitHub activity recorder"
+/>
+
+</div>
+
+---
+
+## BLACK BOX
+
+<details>
+<summary><b>ACCESS RECORDED TRANSMISSION</b></summary>
+
+<br>
+
+```text
+[00:00:01] OPERATOR CONNECTED
+[00:00:02] IDEA PROCESSOR ONLINE
+[00:00:03] FRONTEND MODULE READY
+[00:00:04] DATABASE LINK ESTABLISHED
+[00:00:05] AUTOMATION CHANNEL OPEN
+[00:00:06] DESIGN SYSTEM SYNCHRONISED
+[00:00:07] DEVELOPMENT ENVIRONMENT STABLE
+
+TRANSMISSION:
+
+I do not want to collect technologies only to display them.
+
+I want to understand them well enough to build systems that people
+can use, operate and remember.
+
+END TRANSMISSION.
+```
+
+</details>
+
+---
+
+## OPERATIONS TIMELINE
+
+```text
+PAST                         PRESENT                         NEXT
+────────────────────────────────────────────────────────────────────
+
+BASIC WEB                    FULL-STACK SYSTEMS              ADVANCED BACKENDS
+UI EXPERIMENTS               AIRLINE PLATFORM               PRODUCTION SECURITY
+DISCORD BOTS                 DATABASE INTEGRATION           CLOUD ARCHITECTURE
+STATIC PROJECTS              LIVE DEPLOYMENTS               LARGE-SCALE SYSTEMS
+
+────────────────────────────────────────────────────────────────────
+THE ROUTE IS NOT FIXED. THE DIRECTION IS.
+```
+
+---
+
+<a id="contact-channel"></a>
+
+## CONTACT CHANNEL
+
+<div align="center">
+
+```text
+SECURE CHANNEL AVAILABLE
+
+PRIMARY IDENTIFIER
+github.com/EthicalLemon
+
+VALID TRANSMISSIONS
+COLLABORATION / DEVELOPMENT / DESIGN / AVIATION TECHNOLOGY
+```
+
+[OPEN GITHUB CHANNEL](https://github.com/EthicalLemon)
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+────────────────────────────────────────────────────────────────────
+ETHICALLEMON FLIGHT SYSTEM
+
+BUILD IDENTIFIER    PROFILE-2026
+SYSTEM STATE        OPERATIONAL
+LAST DIRECTIVE      KEEP BUILDING
+────────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00e5ff,50:003b52,100:020617"
+/>

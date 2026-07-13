@@ -1,262 +1,653 @@
 <!--
   ETHICALLEMON
-  GitHub profile README
+  Fonts:
+  - Unbounded: name and section titles
+  - DM Mono: editorial subtitles
+  - Doto: animated dot-matrix typography
 -->
 
-<p align="center">
-  <img
-    src="https://svg-banners.vercel.app/api?type=origin&text1=ETHICALLEMON&text2=FULL-STACK%20DEVELOPER%20%7C%20AVIATION%20SYSTEMS&width=1000&height=280"
-    width="100%"
-    alt="EthicalLemon animated dot matrix header"
-  />
+<p align="left">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=44&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=75&lines=ETHICALLEMON"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=44&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=75&lines=ETHICALLEMON"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=44&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=75&lines=ETHICALLEMON"
+      alt="EthicalLemon"
+    />
+  </picture>
 </p>
 
-<p align="center">
+<p align="left">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=1&pause=999999&color=8B949E&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=30&lines=LEMUEL+%2F+FULL-STACK+DEVELOPER+%2F+AVIATION+SYSTEMS"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=1&pause=999999&color=57606A&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=30&lines=LEMUEL+%2F+FULL-STACK+DEVELOPER+%2F+AVIATION+SYSTEMS"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=14&duration=1&pause=999999&color=8B949E&background=00000000&vCenter=true&repeat=false&cursor=false&width=900&height=30&lines=LEMUEL+%2F+FULL-STACK+DEVELOPER+%2F+AVIATION+SYSTEMS"
+      alt="Full-stack developer and aviation systems builder"
+    />
+  </picture>
+</p>
+
+<p align="left">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=22&duration=2100&pause=700&color=A78BFA&background=00000000&vCenter=true&repeat=true&cursor=false&width=950&height=55&lines=BUILDING+SYSTEMS+THAT+ACTUALLY+WORK;AVIATION+%2F+SOFTWARE+%2F+AUTOMATION;DESIGNING+THE+INTERFACE+AND+THE+ENGINE;CURRENT+PROJECT+%3A+INDIGO+PTFS"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=22&duration=2100&pause=700&color=6D28D9&background=00000000&vCenter=true&repeat=true&cursor=false&width=950&height=55&lines=BUILDING+SYSTEMS+THAT+ACTUALLY+WORK;AVIATION+%2F+SOFTWARE+%2F+AUTOMATION;DESIGNING+THE+INTERFACE+AND+THE+ENGINE;CURRENT+PROJECT+%3A+INDIGO+PTFS"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=22&duration=2100&pause=700&color=A78BFA&background=00000000&vCenter=true&repeat=true&cursor=false&width=950&height=55&lines=BUILDING+SYSTEMS+THAT+ACTUALLY+WORK;AVIATION+%2F+SOFTWARE+%2F+AUTOMATION;DESIGNING+THE+INTERFACE+AND+THE+ENGINE;CURRENT+PROJECT+%3A+INDIGO+PTFS"
+      alt="Animated dot matrix introduction"
+    />
+  </picture>
+</p>
+
+<p align="left">
   <a href="#about">About</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#selected-work">Selected Work</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#now">Now</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#work">Work</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#stack">Stack</a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#activity">Activity</a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=EthicalLemon&label=PROFILE+VIEWS&color=111827&style=flat-square"
-    alt="Profile views"
-  />
-</p>
+<br>
 
 ---
 
 <a id="about"></a>
 
-## About
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=01+%2F+ABOUT"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=01+%2F+ABOUT"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=01+%2F+ABOUT"
+      alt="About"
+    />
+  </picture>
+</p>
 
-I am Lemuel, a student developer from India building full-stack applications, operational tools and automation systems.
+<table>
+<tr>
+<td width="66%" valign="top">
 
-Most of my work is connected to aviation technology, booking workflows, staff management, Discord integrations and modern web interfaces. I prefer building complete systems over isolated demos: frontend, backend, authentication, database structure, deployment and the small details that make a product usable.
+I am **Lemon**, a student developer from India.
+
+I build full-stack applications around aviation, automation and operational workflows. My projects usually connect frontend interfaces, backend logic, authentication, databases and Discord systems.
+
+I am currently building **IndiGo PTFS**, a virtual-airline platform containing passenger booking, staff tools, flight management and shared operational data.
+
+I prefer building one connected product over publishing several disconnected demos.
+
+</td>
+<td width="34%" valign="top">
 
 ```text
-Current focus     Building cleaner full-stack applications
-Main project      Virtual airline operations and booking platform
-Interested in     Aviation technology, security and interface design
-Working style     Build, test, refine and ship
+NAME        Lemon
+HANDLE      EthicalLemon
+LOCATION    India
+
+ROLE        Developer
+FOCUS       Full-stack
+DOMAIN      Aviation
+
+STATUS      Building
+```
+
+</td>
+</tr>
+</table>
+
+```typescript
+const lemuel = {
+  handle: "EthicalLemon",
+  building: "IndiGo PTFS",
+
+  interestedIn: [
+    "full-stack engineering",
+    "aviation technology",
+    "backend systems",
+    "interface design",
+    "automation"
+  ],
+
+  approach: "understand → build → test → refine → ship"
+};
 ```
 
 ---
 
-<a id="selected-work"></a>
+<a id="now"></a>
 
-## Selected Work
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=02+%2F+NOW"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=02+%2F+NOW"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=02+%2F+NOW"
+      alt="Now"
+    />
+  </picture>
+</p>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/EthicalLemon/INDIGO-PTFS">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=EthicalLemon&repo=INDIGO-PTFS&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-          width="100%"
-          alt="INDIGO-PTFS repository"
-        />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/EthicalLemon/indigoptfs">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=EthicalLemon&repo=indigoptfs&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-          width="100%"
-          alt="indigoptfs repository"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/EthicalLemon/indigoo">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=EthicalLemon&repo=indigoo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-          width="100%"
-          alt="indigoo repository"
-        />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/EthicalLemon/Lemon">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=EthicalLemon&repo=Lemon&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"
-          width="100%"
-          alt="Lemon repository"
-        />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+
+### BUILDING
+
+**IndiGo PTFS**
+
+A connected airline platform for passengers, staff and flight operations.
+
+`NEXT.JS`
+`TYPESCRIPT`
+`SUPABASE`
+
+</td>
+<td width="33%" valign="top">
+
+### LEARNING
+
+**Backend architecture**
+
+Authentication, permissions, validation, database design and secure APIs.
+
+`POSTGRESQL`
+`NODE.JS`
+`RLS`
+
+</td>
+<td width="33%" valign="top">
+
+### IMPROVING
+
+**Product engineering**
+
+Building interfaces that remain clear and usable as the system grows.
+
+`FIGMA`
+`MOTION`
+`RESPONSIVE UI`
+
+</td>
+</tr>
 </table>
 
-### Indigo PTFS
+<br>
 
-A virtual airline operations platform designed around real workflows rather than static pages.
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=17&duration=1750&pause=450&color=71717A&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=850&height=42&lines=%E2%97%8F+DATABASE+CONNECTED+%E2%97%8F+INTERFACE+ONLINE+%E2%97%8F;%E2%97%8F+FLIGHT+SYSTEM+ACTIVE+%E2%97%8F+BUILD+IN+PROGRESS+%E2%97%8F"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=17&duration=1750&pause=450&color=52525B&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=850&height=42&lines=%E2%97%8F+DATABASE+CONNECTED+%E2%97%8F+INTERFACE+ONLINE+%E2%97%8F;%E2%97%8F+FLIGHT+SYSTEM+ACTIVE+%E2%97%8F+BUILD+IN+PROGRESS+%E2%97%8F"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=17&duration=1750&pause=450&color=71717A&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=850&height=42&lines=%E2%97%8F+DATABASE+CONNECTED+%E2%97%8F+INTERFACE+ONLINE+%E2%97%8F;%E2%97%8F+FLIGHT+SYSTEM+ACTIVE+%E2%97%8F+BUILD+IN+PROGRESS+%E2%97%8F"
+      alt="Dot matrix system status"
+    />
+  </picture>
+</p>
+
+---
+
+<a id="work"></a>
+
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=450&height=42&lines=03+%2F+SELECTED+WORK"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=450&height=42&lines=03+%2F+SELECTED+WORK"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=450&height=42&lines=03+%2F+SELECTED+WORK"
+      alt="Selected work"
+    />
+  </picture>
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<sub>PROJECT 01</sub>
+
+## [indigoptfs](https://github.com/EthicalLemon/indigoptfs)
+
+Full-stack airline operations platform connecting passenger services, staff tools, flight data and Discord automation.
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+[VIEW REPOSITORY →](https://github.com/EthicalLemon/indigoptfs)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>PROJECT 02</sub>
+
+## [INDIGO-PTFS](https://github.com/EthicalLemon/INDIGO-PTFS)
+
+System prototype containing flight management, role permissions, protected routes and backend architecture.
+
+`Node.js` `Supabase` `RLS` `Discord.js`
+
+[VIEW REPOSITORY →](https://github.com/EthicalLemon/INDIGO-PTFS)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<sub>PROJECT 03</sub>
+
+## [indigoo](https://github.com/EthicalLemon/indigoo)
+
+Passenger-facing airline prototype with booking, check-in and a deployed web experience.
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+[VIEW REPOSITORY →](https://github.com/EthicalLemon/indigoo)
+
+[OPEN DEPLOYMENT →](https://indigova.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+<sub>PROJECT 04</sub>
+
+## [Lemon](https://github.com/EthicalLemon/Lemon)
+
+Personal development laboratory for interface experiments, visual studies and smaller web projects.
+
+`HTML` `CSS` `JavaScript`
+
+[VIEW REPOSITORY →](https://github.com/EthicalLemon/Lemon)
+
+</td>
+</tr>
+</table>
+
+<p align="right">
+  <a href="https://github.com/EthicalLemon?tab=repositories">
+    VIEW ALL REPOSITORIES →
+  </a>
+</p>
+
+---
+
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=04+%2F+FLAGSHIP+SYSTEM"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=04+%2F+FLAGSHIP+SYSTEM"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=04+%2F+FLAGSHIP+SYSTEM"
+      alt="Flagship system"
+    />
+  </picture>
+</p>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## IndiGo PTFS
+
+A virtual-airline platform built around complete operational workflows instead of static showcase pages.
+
+### Passenger layer
+
+* Search active flights
+* Choose a cabin class
+* Complete a booking
+* Receive an electronic ticket
+* View booking and flight status
+
+### Operations layer
+
+* Create and manage flights
+* Control boarding and departure
+* Review passenger manifests
+* Assign role-based permissions
+* Publish updates through Discord
+
+### Platform layer
+
+* Supabase authentication
+* PostgreSQL database
+* Row Level Security
+* Real-time flight information
+* Responsive public and staff interfaces
+
+</td>
+<td width="40%" valign="top">
 
 ```text
-Passenger systems     Flight search, booking, check-in and e-tickets
-Operations systems    Flight creation, status control and manifests
-Staff systems         Role-based dashboards and permissions
-Data layer            Supabase, PostgreSQL and real-time updates
-Automation            Discord bot commands and notifications
+INDIGO PTFS
+─────────────────────
+
+PASSENGER WEBSITE
+        │
+        ▼
+APPLICATION LAYER
+        │
+        ▼
+SUPABASE
+        │
+        ├── USERS
+        ├── FLIGHTS
+        ├── BOOKINGS
+        └── STAFF
+        │
+        ▼
+DISCORD AUTOMATION
+
+STATE
+ACTIVE DEVELOPMENT
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
 <a id="stack"></a>
 
-## Stack
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=05+%2F+STACK"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=05+%2F+STACK"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=350&height=42&lines=05+%2F+STACK"
+      alt="Stack"
+    />
+  </picture>
+</p>
 
-<p align="center">
+<p align="left">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,supabase,postgres,git,github,figma,vercel&perline=7"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,github,figma,vercel&perline=14"
     alt="Technology stack"
   />
 </p>
 
 <table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Frontend</strong>
-      <br><br>
-      HTML<br>
-      CSS<br>
-      JavaScript<br>
-      TypeScript<br>
-      React<br>
-      Next.js<br>
-      Tailwind CSS
-    </td>
-    <td width="33%" valign="top">
-      <strong>Backend</strong>
-      <br><br>
-      Node.js<br>
-      Supabase<br>
-      PostgreSQL<br>
-      Authentication<br>
-      Role-based access<br>
-      Real-time data<br>
-      Discord integrations
-    </td>
-    <td width="33%" valign="top">
-      <strong>Workflow</strong>
-      <br><br>
-      Git<br>
-      GitHub<br>
-      Figma<br>
-      Vercel<br>
-      Netlify<br>
-      Responsive design<br>
-      Interface prototyping
-    </td>
-  </tr>
+<tr>
+<td width="25%" valign="top">
+
+### INTERFACE
+
+TypeScript
+JavaScript
+React
+Next.js
+HTML
+CSS
+Tailwind CSS
+
+</td>
+<td width="25%" valign="top">
+
+### BACKEND
+
+Node.js
+Supabase
+PostgreSQL
+REST APIs
+Authentication
+Row Level Security
+
+</td>
+<td width="25%" valign="top">
+
+### AUTOMATION
+
+Discord.js
+Slash commands
+Webhooks
+GitHub Actions
+Real-time events
+
+</td>
+<td width="25%" valign="top">
+
+### PRODUCT
+
+Figma
+Responsive design
+Motion design
+Prototyping
+Vercel
+Netlify
+
+</td>
+</tr>
 </table>
 
 ---
 
-## What I am improving
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=06+%2F+BUILD+PROCESS"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=06+%2F+BUILD+PROCESS"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=500&height=42&lines=06+%2F+BUILD+PROCESS"
+      alt="Build process"
+    />
+  </picture>
+</p>
 
 ```text
-01   Writing cleaner TypeScript and reusable components
-02   Designing secure authentication and permission systems
-03   Structuring databases for real operational workflows
-04   Building interfaces that remain clear as features expand
-05   Moving projects from prototypes into reliable deployments
+UNDERSTAND THE WORKFLOW
+          ↓
+DEFINE DATA AND PERMISSIONS
+          ↓
+BUILD THE SMALLEST COMPLETE FLOW
+          ↓
+CONNECT THE INTERFACE AND BACKEND
+          ↓
+TEST FAILURE STATES
+          ↓
+DEPLOY
+          ↓
+REMOVE WHAT DOES NOT HELP
+          ↓
+REFINE
 ```
 
----
+<details>
+<summary><strong>Development principles</strong></summary>
 
-## How I build
+<br>
 
-```mermaid
-flowchart LR
-    A[Problem] --> B[Research]
-    B --> C[Prototype]
-    C --> D[Frontend]
-    D --> E[Backend]
-    E --> F[Testing]
-    F --> G[Deployment]
-    G --> H[Refinement]
+1. Begin with the actual user workflow.
+2. Design permissions before polishing the interface.
+3. Build features from interface to database.
+4. Test invalid states, not only successful ones.
+5. Use motion only when it communicates something.
+6. Ship, observe and improve.
 
-    style A fill:#0d1117,stroke:#30363d,color:#c9d1d9
-    style B fill:#0d1117,stroke:#30363d,color:#c9d1d9
-    style C fill:#0d1117,stroke:#30363d,color:#c9d1d9
-    style D fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style E fill:#0d1117,stroke:#58a6ff,color:#c9d1d9
-    style F fill:#0d1117,stroke:#30363d,color:#c9d1d9
-    style G fill:#0d1117,stroke:#30363d,color:#c9d1d9
-    style H fill:#0d1117,stroke:#30363d,color:#c9d1d9
-```
+</details>
 
 ---
 
 <a id="activity"></a>
 
-## Activity
+<p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=400&height=42&lines=07+%2F+ACTIVITY"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=111111&background=00000000&vCenter=true&repeat=false&cursor=false&width=400&height=42&lines=07+%2F+ACTIVITY"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=17&duration=1&pause=999999&color=F5F5F5&background=00000000&vCenter=true&repeat=false&cursor=false&width=400&height=42&lines=07+%2F+ACTIVITY"
+      alt="Activity"
+    />
+  </picture>
+</p>
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthicalLemon&theme=github_dark"
-    width="100%"
-    alt="GitHub contribution summary"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthicalLemon&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthicalLemon&theme=github"
+    />
+    <img
+      width="100%"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EthicalLemon&theme=github_dark"
+      alt="GitHub profile activity"
+    />
+  </picture>
 </p>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=EthicalLemon&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true"
-        width="100%"
-        alt="GitHub statistics"
-      />
-    </td>
-    <td width="50%" valign="top">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalLemon&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
-        width="100%"
-        alt="Most used languages"
-      />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=EthicalLemon&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=A78BFA&text_color=8B949E&icon_color=A78BFA"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=EthicalLemon&show_icons=true&hide_border=true&include_all_commits=true&bg_color=00000000&title_color=6D28D9&text_color=57606A&icon_color=6D28D9"
+  />
+  <img
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=EthicalLemon&show_icons=true&hide_border=true"
+    alt="GitHub statistics"
+  />
+</picture>
+
+</td>
+<td width="50%" valign="top">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalLemon&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=8B949E"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalLemon&layout=compact&hide_border=true&bg_color=00000000&title_color=6D28D9&text_color=57606A"
+  />
+  <img
+    width="100%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthicalLemon&layout=compact&hide_border=true"
+    alt="Most used languages"
+  />
+</picture>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EthicalLemon&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Activity"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=EthicalLemon&bg_color=00000000&color=71717A&line=A78BFA&point=F5F5F5&area=true&area_color=6D28D9&hide_border=true&custom_title=Development%20activity"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=EthicalLemon&bg_color=00000000&color=52525B&line=6D28D9&point=111111&area=true&area_color=A78BFA&hide_border=true&custom_title=Development%20activity"
+    />
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EthicalLemon&hide_border=true"
+      alt="Development activity"
+    />
+  </picture>
 </p>
 
 ---
 
-## Repository directory
-
-| Project                                                    | Purpose                             | Status              |
-| ---------------------------------------------------------- | ----------------------------------- | ------------------- |
-| [INDIGO-PTFS](https://github.com/EthicalLemon/INDIGO-PTFS) | Virtual airline operations platform | Active development  |
-| [indigoptfs](https://github.com/EthicalLemon/indigoptfs)   | Airline web and backend systems     | Active development  |
-| [indigoo](https://github.com/EthicalLemon/indigoo)         | Booking and check-in interface      | Deployed experiment |
-| [Lemon](https://github.com/EthicalLemon/Lemon)             | Personal development laboratory     | Experimental        |
-
----
-
-## Current direction
-
-I am working towards becoming a stronger full-stack developer by building projects that have real users, real operational requirements and real technical constraints.
-
-The goal is not to display the largest possible collection of tools. The goal is to understand the tools well enough to design and operate complete systems.
-
----
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=18&duration=2600&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=900&height=48&lines=USEFUL+SYSTEMS+%2F+CLEAR+INTERFACES;BUILD+%2F+TEST+%2F+REFINE+%2F+SHIP;END+OF+TRANSMISSION"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=18&duration=2600&pause=900&color=6D28D9&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=900&height=48&lines=USEFUL+SYSTEMS+%2F+CLEAR+INTERFACES;BUILD+%2F+TEST+%2F+REFINE+%2F+SHIP;END+OF+TRANSMISSION"
+    />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Doto&weight=700&size=18&duration=2600&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&repeat=true&cursor=false&width=900&height=48&lines=USEFUL+SYSTEMS+%2F+CLEAR+INTERFACES;BUILD+%2F+TEST+%2F+REFINE+%2F+SHIP;END+OF+TRANSMISSION"
+      alt="Dot matrix footer"
+    />
+  </picture>
+</p>
 
 <p align="center">
-  <sub>
-    Build useful systems. Keep the interface clear. Improve every release.
-  </sub>
+  <a href="https://github.com/EthicalLemon">
+    github.com/EthicalLemon
+  </a>
 </p>
